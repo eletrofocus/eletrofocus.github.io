@@ -4,12 +4,12 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"manifest.json": "b1040981aa93fd5b5fbdad33f1fb71c2",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "b4e158b10f1ace219e20df934b25e8de",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "sqlite3.wasm": "2068781fd3a05f89e76131a98da09b5b",
 "sqflite_sw.js": "5267f89a5a1aa5a985f5cc30f85e3def",
-"index.html": "4fdf753fb847318c8c651c941df4900c",
-"/": "4fdf753fb847318c8c651c941df4900c",
+"index.html": "fe9a704b81f02ee108c8e7d53cd7dc90",
+"/": "fe9a704b81f02ee108c8e7d53cd7dc90",
 "canvaskit/skwasm.js": "95f16c6690f955a45b2317496983dbe9",
 "canvaskit/canvaskit.js": "5caccb235fad20e9b72ea6da5a0094e6",
 "canvaskit/chromium/canvaskit.js": "ffb2bb6484d5689d91f393b60664d530",
@@ -1008,7 +1008,7 @@ const RESOURCES = {"manifest.json": "b1040981aa93fd5b5fbdad33f1fb71c2",
 "assets/packages/window_manager/images/ic_chrome_unmaximize.png": "4a90c1909cb74e8f0d35794e2f61d8bf",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/fonts/digital_display.ttf": "262d50c5b23b671757d16b3718f7572b",
-"assets/fonts/MaterialIcons-Regular.otf": "cd4244735942d9d2d412d11614639dbb",
+"assets/fonts/MaterialIcons-Regular.otf": "44c14e89fcede2973ab483d091fbae7e",
 "assets/AssetManifest.json": "4df5ba90cd6a559825dde2ef330951d1",
 "assets/NOTICES": "922ddd832f0c6d80d988106331598c25",
 "assets/assets/userPadrao.png": "7ea4af7d8401d2b43ee841bfa2abe89d",
@@ -1016,7 +1016,7 @@ const RESOURCES = {"manifest.json": "b1040981aa93fd5b5fbdad33f1fb71c2",
 "assets/assets/app_acon.png": "58b14d2cbf370e39efcce22d10c4f982",
 "assets/AssetManifest.bin": "86464ec18f222a4e0752c246e7d0547f",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
-"main.dart.js": "5f3dee3e407a9e0a21c2a49f4fa8fd20",
+"main.dart.js": "42ef2ee71255059015ba8da42c6d477f",
 "version.json": "e446fb0bf04588a5a97c655b4fb450d1"};
 // The application shell files that are downloaded before a service worker can
 // start.
